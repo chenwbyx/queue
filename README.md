@@ -1,4 +1,7 @@
 # queue
+```go
+import  github.com/chenwbyx/queue
+```
 #### 实现了几种队列：
 * 基于channel + slice的无锁队列
 * 基于channel + ring-buffer queue的无锁队列

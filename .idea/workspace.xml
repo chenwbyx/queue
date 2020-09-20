@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12ed22e5-7fd3-44e8-aae5-30dad2afdfef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../lockfree_queue/chan_queue.go" beforeDir="false" afterPath="$PROJECT_DIR$/chan_queue.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lockfree_queue/chan_ringbuf.go" beforeDir="false" afterPath="$PROJECT_DIR$/chan_ringbuf.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lockfree_queue/lock_queue.go" beforeDir="false" afterPath="$PROJECT_DIR$/lock_queue.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lockfree_queue/lock_ringbuf.go" beforeDir="false" afterPath="$PROJECT_DIR$/lock_ringbuf.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lockfree_queue/lockfree_queue.go" beforeDir="false" afterPath="$PROJECT_DIR$/lockfree_queue.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lockfree_queue/lockfree_queue_chan.go" beforeDir="false" afterPath="$PROJECT_DIR$/lockfree_queue_chan.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lockfree_queue/lockfree_queue_signal.go" beforeDir="false" afterPath="$PROJECT_DIR$/lockfree_queue_signal.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lockfree_queue/queue_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/queue_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lockfree_queue/ring_buf_queue/queue.go" beforeDir="false" afterPath="$PROJECT_DIR$/ring_buf_queue/queue.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +14,7 @@
   </component>
   <component name="GOROOT" path="D:\Go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
