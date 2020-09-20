@@ -1,5 +1,5 @@
 # queue
-```go
+```shell script
 go get github.com/chenwbyx/queue
 ```
 #### 实现了几种队列：
