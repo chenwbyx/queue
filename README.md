@@ -1,6 +1,6 @@
 # queue
 ```go
-import  github.com/chenwbyx/queue
+go get github.com/chenwbyx/queue
 ```
 #### 实现了几种队列：
 * 基于channel + slice的无锁队列
